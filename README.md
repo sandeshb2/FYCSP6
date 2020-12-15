@@ -1,3 +1,3 @@
 # FYCSP6
 Hello....
-I wamt to ceate some changes in my readme file
+I want to ceate some changes in my readme file
